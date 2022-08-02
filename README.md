@@ -1,4 +1,4 @@
-# card-war #
+# Card War #
 
 Project created with the aim of learning Swift and SwiftUI.
 
